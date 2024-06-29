@@ -2,14 +2,14 @@
 
 ## Overview
 
-This project is a redesign of the Apple website using React. The goal is to create a modern and responsive user interface that retains Apple's aesthetic. It features a component-based structure and interactive elements.
+This project is a redesign of the Apple website using React and GSAP. The goal is to create a modern, responsive user interface with smooth animations that maintain Apple's aesthetic.
 
 ## Features
 
 - **Responsive Design**: Optimized for desktop and mobile devices.
 - **Component-Based Architecture**: Reusable components for efficiency.
 - **React Hooks**: Used for state management.
-- **Interactive UI**: Smooth transitions and animations.
+- **Interactive UI**: Smooth transitions and animations using GSAP.
 - **Dynamic Content**: Real-time data fetching.
 
 ## Installation
